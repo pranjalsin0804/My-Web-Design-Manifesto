@@ -71,6 +71,23 @@ p{ font-family: 'IBM Plex Sans';
 	padding: 4px;
 }
 
+p1{ font-family: 'IBM Plex Sans';
+  font-weight: 400;
+  font-style: normal;
+	font-size: 1.5vw;
+	color:#373737;
+	text-align:right;	
+	padding: 4px;
+}
+q { font-family: 'IBM Plex Sans';
+  font-weight: 500;
+  font-style:italic;
+	font-size: 3vw;
+	color:#373737;
+	text-align:justify;	
+	padding: 4px;
+}
+
 
 
 
