@@ -13,6 +13,7 @@
 	text-align: center;
 	margin-top: 0;
 	margin-left: auto;
+	padding-left:20px; 
 }
 
 h2{
@@ -53,6 +54,9 @@ h4{ font-family: "Unica One", sans-serif;
   font-style: normal;
 	font-size: 3vw;
 	color:#000000;
+	padding-right: 25px;
+	padding-left: 25px;
+	margin-bottom: 20px;
 	}
 
 h5{ font-family: "Unica One", sans-serif;
@@ -68,7 +72,8 @@ p{ font-family: 'IBM Plex Sans';
 	font-size: 1.5vw;
 	color:#373737;
 	text-align:justify;	
-	padding: 4px;
+	padding-right: 25px;
+	padding-left: 25px;
 }
 
 p1{ font-family: 'IBM Plex Sans';
@@ -110,10 +115,17 @@ q { font-family: 'IBM Plex Sans';
 
 
 .typography{
+	background-image:url("IMG/typebg.png");
+background-attachment:fixed;
+	background-size: cover;
+	
 	background-color:#D6D6D6;
 	padding:10%;
 }
 .colordesign{
+	background-image:url("IMG/colorbg.png");
+background-attachment:fixed;
+	background-size: cover;
 	background-color:#F4F2F3;
 	padding:10%;
 }
@@ -198,6 +210,7 @@ ac:hover{
 	justify-content:center;
 	align-items: center;
 	height: 0vh;
+	margin-top: 6%;
 	
 }
 
